@@ -5,7 +5,8 @@
 
 1. Crear Rama gh-pages 
 2. npm install -g gh-pages
-3. ng build --prod --base-href /PROJECT_NAME/
-4. Publicar : gh-pages -d dist
+3. <base href="">
+4. ng build --prod --base-href /PROJECT_NAME/
+5. Publicar : gh-pages -d dist
 
 URL : https://themachinecl.github.io/Angular-Ejemplos
