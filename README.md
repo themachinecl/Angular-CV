@@ -8,4 +8,4 @@
 3. ng build --prod --base-href /PROJECT_NAME/
 4. Publicar : gh-pages -d dist
 
-URL : https://themachinecl.github.io/Angular2_Ejemplos
+URL : https://themachinecl.github.io/Angular-Ejemplos
