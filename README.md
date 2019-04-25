@@ -1,6 +1,6 @@
-# Angular
+# PROYECTO Angular DE MI CV
 
-### PUBLICAR - GITHUB.IO
+### PARA PUBLICAR COMO PAGE EN GITHUB.IO WITH ANGULAR
 
 
 1. Crear Rama gh-pages 
